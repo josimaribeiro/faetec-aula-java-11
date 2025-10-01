@@ -1,11 +1,10 @@
-# 🚀 Projeto Atualizado **01/10/2025 19:15:39** ⚙️
+# 🚀 Projeto Atualizado **01/10/2025 19:36:16** ⚙️
 
 
-<img width="300" src="https://vitestechnologies.com/wp-content/uploads/2024/06/mern.svg" alt="Node + Mongo" />
+<img width="200" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*gtY-llyEbkeoS1Sp.png" alt="Java" />
 
-<img width="100" src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="Node + Mongo" />
 
-📅 Última atualização: **01/10/2025 19:15:39**
+📅 Última atualização: **01/10/2025 19:36:16**
 
 Diretório atual: C:\devtmp\faetec-aula-java-11
 
