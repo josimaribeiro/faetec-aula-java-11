@@ -1,13 +1,15 @@
-# 🚀 Projeto Atualizado **01/10/2025  8:49:48** ⚙️
+# 🚀 Projeto Atualizado **01/10/2025 19:09:08** ⚙️
 
 
-<img width="300" src="https://media.licdn.com/dms/image/v2/D5612AQGKYHDBZ5TSsQ/article-cover_image-shrink_720_1280/B56ZXgoCPAGoAM-/0/1743230357920?e=2147483647&v=beta&t=0pojjG98v9aleVMOSCWaGAuES7IoSf2wWIfO4j0gIRE" alt="CRUD PHP Laravel" style="border: 5px solid #333; border-radius: 10px;" />
+<img width="300" src="https://vitestechnologies.com/wp-content/uploads/2024/06/mern.svg" alt="Node + Mongo" />
 
-📅 Última atualização: **01/10/2025  8:49:48**
+<img width="100" src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="Node + Mongo" />
 
-Diretório atual: Z:\Users\ETEP\IdeaProjects\aula11
+📅 Última atualização: **01/10/2025 19:09:08**
 
-Hostname da máquina: LAPTOP-ACER
+Diretório atual: C:\devtmp\faetec-aula-java-11
+
+Hostname da máquina: LAP-LENOVO
 
 ---
 
