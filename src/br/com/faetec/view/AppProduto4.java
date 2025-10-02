@@ -14,11 +14,21 @@ public class AppProduto4 {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
-        List<Produto> list = new ArrayList<>();
+        List<Produto> listaProduto = new ArrayList<>();
         String resposta = "S";
 
-        while(true){
-            
+        while (true) {
+            System.out.println("Digite o id do item : ");
+            int id = scanner.nextInt();
+            System.out.println("Digite a descrição do item : ");
+            String descricao = scanner.next();
+            System.out.println("Digite o preco : ");
+            double preco = scanner.nextDouble();
+
+            Produto p = new Produto(id,descricao,preco);
+
+            listaProduto.add(p);
+
 
             System.out.println("Deseja continuar? (S/N): ");
             resposta = scanner.nextLine();
@@ -26,8 +36,10 @@ public class AppProduto4 {
             if (resposta.equalsIgnoreCase("N")) {
                 break;
             }
-
         }
         scanner.close();
+        for(Produto p : listaProduto ){
+            System.out.println(p);
+        }
     }
 }
