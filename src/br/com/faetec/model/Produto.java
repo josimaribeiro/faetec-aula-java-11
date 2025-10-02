@@ -6,9 +6,19 @@ public class Produto {
     private String descricao;
     private double preco;
 
+
+    public Produto() {
+    }
+
     public Produto(int id, String descricao) {
         this.id = id;
         this.descricao = descricao;
+    }
+
+    public Produto(int id, String descricao, double preco) {
+        this.id = id;
+        this.descricao = descricao;
+        this.preco = preco;
     }
 
     public int getId() {
