@@ -5,7 +5,7 @@
 - Nome do computador: LAB2PROF 
 - Usuário: ETEP 
 - Diretório atual: C:\Users\ETEP\IdeaProjects\faetec-aula-java-11 
-- Data e hora: 02/10/2025  8:55:05,63 
+- Data e hora: 02/10/2025 10:30:47,40 
 - Versão do Windows: Windows_NT 
  
 ## Descrição 
