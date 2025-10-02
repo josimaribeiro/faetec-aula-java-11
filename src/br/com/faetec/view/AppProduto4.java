@@ -15,8 +15,8 @@ public class AppProduto4 {
         Scanner scanner = new Scanner(System.in);
 
         List<Produto> listaProduto = new ArrayList<>();
-        String resposta = "S";
 
+        String resposta = "S";
         while (true) {
             System.out.println("Digite o id do item : ");
             int id = scanner.nextInt();
@@ -26,12 +26,10 @@ public class AppProduto4 {
             double preco = scanner.nextDouble();
 
             Produto p = new Produto(id,descricao,preco);
-
             listaProduto.add(p);
-
-
+            scanner.nextLine();  // Consome a linha em branco deixada pelo nextDouble()
             System.out.println("Deseja continuar? (S/N): ");
-            resposta = scanner.nextLine();
+            resposta =  scanner.nextLine();
 
             if (resposta.equalsIgnoreCase("N")) {
                 break;
