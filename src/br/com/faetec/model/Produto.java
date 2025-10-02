@@ -6,8 +6,8 @@ public class Produto {
     private String descricao;
     private double preco;
 
-
     public Produto() {
+        System.out.println("Construtor vazio usado");
     }
 
     public Produto(int id, String descricao) {
@@ -16,6 +16,7 @@ public class Produto {
     }
 
     public Produto(int id, String descricao, double preco) {
+        System.out.println("Construtor completo");
         this.id = id;
         this.descricao = descricao;
         this.preco = preco;
